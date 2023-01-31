@@ -16,17 +16,17 @@ Modul 0: Was ist ASP.NET Core?
 
 
 Modul 1.0: SOLID 
-- [ ] Solid-Regeln
+- [x] Solid-Regeln
 
 Modul 1.1: IOC Container
-- [ ] Dependency Injections in ASP.NET Core
+- [x] Dependency Injections in ASP.NET Core
 
 Modul 2: ASP.NET Core Grundlagen
-- [ ] Konfigurationen
-- [ ] Logging mit Serilog
+- [x] Konfigurationen
+- [x] Logging mit Serilog
 
 Modul 3: Razor Pages und Template Synatax
-- [ ] Projektstruktur Komplettübersicht
+- [x] Projektstruktur Komplettübersicht
 - [ ] Razor Pages (Part1)
     - [ ] Razor Page
     - [ ] Razor Syntax
@@ -68,6 +68,7 @@ Modul 6b:
 Modul 7: StateManagement
 - [ ] Cache Tag,
 - [ ] ViewData
+- [ ] ViewBag? 
 - [ ] TempData
 - [ ] Session
 

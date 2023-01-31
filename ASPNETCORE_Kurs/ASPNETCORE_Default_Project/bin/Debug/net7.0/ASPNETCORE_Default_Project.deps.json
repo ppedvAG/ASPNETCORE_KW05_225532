@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ASPNETCORE_Default_Project/1.0.0": {
+        "runtime": {
+          "ASPNETCORE_Default_Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASPNETCORE_Default_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

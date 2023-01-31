@@ -1,0 +1,17 @@
+{
+  "GameSettings": {
+    "Title": "BM 97",
+    "SubTitle": "Bundesliga Mangager Hattrick",
+    "Updates": {
+      "0": "Version 1.0.1",
+      "1": "Version 1.0.2",
+      "2": "Version 1.1.0",
+      "4": "Version 1.1.1",
+      "5": "Version 1.1.2"
+    },
+
+    "Publisher": {
+      "Name": "Software 2000"
+    }
+  }
+}

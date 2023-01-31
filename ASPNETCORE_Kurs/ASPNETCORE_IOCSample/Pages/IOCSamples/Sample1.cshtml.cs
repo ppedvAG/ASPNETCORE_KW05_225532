@@ -8,11 +8,11 @@ namespace ASPNETCORE_IOCSample.Pages.IOCSamples
     //Controller Klassen (MVC) oder PageModel-Klassen werden via einer Factory erstellt 
     public class Sample1Model : PageModel
     {
-        private ITimeService2 _timeService;
+        private ITimeService _timeService;
 
 
         //Konstructor Injection, greift auf IOC Container zu 
-        public Sample1Model(ITimeService2 timeService)
+        public Sample1Model(ITimeService timeService)
         {
             _timeService = timeService;
         }

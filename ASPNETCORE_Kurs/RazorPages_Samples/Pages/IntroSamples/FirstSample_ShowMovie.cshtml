@@ -1,0 +1,18 @@
+﻿@page
+@model RazorPages_Samples.Pages.IntroSamples.FirstSample_ShowMovieModel
+@{
+}
+
+@Model.MovieObj.Title
+<br />
+@Model.MovieObj.Description
+<br />
+@Model.MovieObj.Price
+<br />
+@Model.MovieObj.Genre
+
+
+@if(Model.MovieObj.Genre == Models.GenreType.Drama)
+{
+    <p>Dramafilme sind nicht Lustig</p>
+}

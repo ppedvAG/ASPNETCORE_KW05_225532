@@ -3,19 +3,40 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrincipe", "SingleResponsibilityPrincipe\SingleResponsibilityPrincipe.csproj", "{480381DE-6119-434C-BD10-93619CE77A3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrincipe", "SingleResponsibilityPrincipe\SingleResponsibilityPrincipe.csproj", "{480381DE-6119-434C-BD10-93619CE77A3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrincipe", "OpenClosePrincipe\OpenClosePrincipe.csproj", "{54FE8A5E-6157-420D-9F3D-E650533DDE1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosePrincipe", "OpenClosePrincipe\OpenClosePrincipe.csproj", "{54FE8A5E-6157-420D-9F3D-E650533DDE1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LizkovischePrincipe", "LizkovischePrincipe\LizkovischePrincipe.csproj", "{42AE7A6B-1BB7-4AE3-98F9-F8385FD35B19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LizkovischePrincipe", "LizkovischePrincipe\LizkovischePrincipe.csproj", "{42AE7A6B-1BB7-4AE3-98F9-F8385FD35B19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegerationPrincipe", "InterfaceSegerationPrincipe\InterfaceSegerationPrincipe.csproj", "{77DF23A6-3D9E-4B6D-B38B-271E6063C159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegerationPrincipe", "InterfaceSegerationPrincipe\InterfaceSegerationPrincipe.csproj", "{77DF23A6-3D9E-4B6D-B38B-271E6063C159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion.cs", "DependencyInversion.cs\DependencyInversion.cs.csproj", "{9C6CC719-9AC6-4BB5-9DFE-A6E4AB14A4CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversion.cs", "DependencyInversion.cs\DependencyInversion.cs.csproj", "{9C6CC719-9AC6-4BB5-9DFE-A6E4AB14A4CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCContainerSample", "IOCContainerSample\IOCContainerSample.csproj", "{191F0836-1865-429D-B429-095DEFB83027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOCContainerSample", "IOCContainerSample\IOCContainerSample.csproj", "{191F0836-1865-429D-B429-095DEFB83027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCORE_IOCSample", "ASPNETCORE_IOCSample\ASPNETCORE_IOCSample.csproj", "{3B63E2D6-11C2-4220-884B-85FAF4EFC764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNETCORE_IOCSample", "ASPNETCORE_IOCSample\ASPNETCORE_IOCSample.csproj", "{3B63E2D6-11C2-4220-884B-85FAF4EFC764}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul001_SOLID", "Modul001_SOLID", "{7ACBAAF7-BDA3-4E05-88E8-E7DDE18D903F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul002_IOC", "Modul002_IOC", "{354AA8AB-03D4-4471-A8E4-1C7D66116469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultMVCProject", "DefaultMVCProject\DefaultMVCProject.csproj", "{D6C45DCA-6863-4687-90E4-FD702DF9F1DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCORE_Configuration_and_Logging", "ASPNETCORE_Configuration_and_Logging\ASPNETCORE_Configuration_and_Logging.csproj", "{D3CA97C2-B854-48D2-AB24-440DE470798E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCORE_Default_Project", "ASPNETCORE_Default_Project\ASPNETCORE_Default_Project.csproj", "{69741950-494E-4A77-B0B4-F4BE5282D4A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul003_Default_RazorPageProject", "Modul003_Default_RazorPageProject", "{21FFE0B6-005D-4A16-8F95-4201D2ED13A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul004_Configuration_Logging", "Modul004_Configuration_Logging", "{9950EC92-95FE-44CE-9694-FF507187AF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPages_Samples", "RazorPages_Samples\RazorPages_Samples.csproj", "{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD62071C-C4CA-4B2D-BA83-09D05FF8E69F}"
+	ProjectSection(SolutionItems) = preProject
+		..\Agenda.md = ..\Agenda.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,9 +72,37 @@ Global
 		{3B63E2D6-11C2-4220-884B-85FAF4EFC764}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B63E2D6-11C2-4220-884B-85FAF4EFC764}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B63E2D6-11C2-4220-884B-85FAF4EFC764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C45DCA-6863-4687-90E4-FD702DF9F1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C45DCA-6863-4687-90E4-FD702DF9F1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C45DCA-6863-4687-90E4-FD702DF9F1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C45DCA-6863-4687-90E4-FD702DF9F1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CA97C2-B854-48D2-AB24-440DE470798E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CA97C2-B854-48D2-AB24-440DE470798E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CA97C2-B854-48D2-AB24-440DE470798E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CA97C2-B854-48D2-AB24-440DE470798E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69741950-494E-4A77-B0B4-F4BE5282D4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69741950-494E-4A77-B0B4-F4BE5282D4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69741950-494E-4A77-B0B4-F4BE5282D4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69741950-494E-4A77-B0B4-F4BE5282D4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{480381DE-6119-434C-BD10-93619CE77A3F} = {7ACBAAF7-BDA3-4E05-88E8-E7DDE18D903F}
+		{54FE8A5E-6157-420D-9F3D-E650533DDE1E} = {7ACBAAF7-BDA3-4E05-88E8-E7DDE18D903F}
+		{42AE7A6B-1BB7-4AE3-98F9-F8385FD35B19} = {7ACBAAF7-BDA3-4E05-88E8-E7DDE18D903F}
+		{77DF23A6-3D9E-4B6D-B38B-271E6063C159} = {7ACBAAF7-BDA3-4E05-88E8-E7DDE18D903F}
+		{9C6CC719-9AC6-4BB5-9DFE-A6E4AB14A4CC} = {7ACBAAF7-BDA3-4E05-88E8-E7DDE18D903F}
+		{191F0836-1865-429D-B429-095DEFB83027} = {354AA8AB-03D4-4471-A8E4-1C7D66116469}
+		{3B63E2D6-11C2-4220-884B-85FAF4EFC764} = {354AA8AB-03D4-4471-A8E4-1C7D66116469}
+		{D6C45DCA-6863-4687-90E4-FD702DF9F1DC} = {354AA8AB-03D4-4471-A8E4-1C7D66116469}
+		{D3CA97C2-B854-48D2-AB24-440DE470798E} = {9950EC92-95FE-44CE-9694-FF507187AF51}
+		{69741950-494E-4A77-B0B4-F4BE5282D4A4} = {21FFE0B6-005D-4A16-8F95-4201D2ED13A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {42F9FD03-E3AC-4ABF-AB01-46345651A162}
