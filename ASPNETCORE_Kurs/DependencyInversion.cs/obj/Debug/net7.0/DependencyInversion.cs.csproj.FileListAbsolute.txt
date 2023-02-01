@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\bin\Debug\net7.0\DependencyInversion.cs.exe
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\bin\Debug\net7.0\DependencyInversion.cs.deps.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\bin\Debug\net7.0\DependencyInversion.cs.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\bin\Debug\net7.0\DependencyInversion.cs.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\bin\Debug\net7.0\DependencyInversion.cs.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\DependencyInversion.cs.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\DependencyInversion.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\DependencyInversion.cs.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\DependencyInversion.cs.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\DependencyInversion.cs.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\DependencyInversion.cs.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\refint\DependencyInversion.cs.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\DependencyInversion.cs.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\DependencyInversion.cs.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\DependencyInversion.cs\obj\Debug\net7.0\ref\DependencyInversion.cs.dll

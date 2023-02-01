@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\bin\Debug\net7.0\SingleResponsibilityPrincipe.exe
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\bin\Debug\net7.0\SingleResponsibilityPrincipe.deps.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\bin\Debug\net7.0\SingleResponsibilityPrincipe.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\bin\Debug\net7.0\SingleResponsibilityPrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\bin\Debug\net7.0\SingleResponsibilityPrincipe.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\SingleResponsibilityPrincipe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\SingleResponsibilityPrincipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\SingleResponsibilityPrincipe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\SingleResponsibilityPrincipe.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\SingleResponsibilityPrincipe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\SingleResponsibilityPrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\refint\SingleResponsibilityPrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\SingleResponsibilityPrincipe.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\SingleResponsibilityPrincipe.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\SingleResponsibilityPrincipe\obj\Debug\net7.0\ref\SingleResponsibilityPrincipe.dll

@@ -8,6 +8,9 @@ namespace RazorPages_Samples.Pages.IntroSamples
     {
         public IList<Movie> Movies { get; set; } = new List<Movie>();
 
+        //... weitere Public-Member und das VM erweitern +
+
+
         public void OnGet()
         {
             Movies.Add(new Movie() { Id = 1, Title = "Jurassic Park", Description = "Dinos züchten Menschen", Genre = GenreType.Horror, Price= 10 });

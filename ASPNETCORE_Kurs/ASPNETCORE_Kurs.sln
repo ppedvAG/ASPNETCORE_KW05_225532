@@ -21,22 +21,30 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul001_SOLID", "Modul001_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul002_IOC", "Modul002_IOC", "{354AA8AB-03D4-4471-A8E4-1C7D66116469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultMVCProject", "DefaultMVCProject\DefaultMVCProject.csproj", "{D6C45DCA-6863-4687-90E4-FD702DF9F1DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultMVCProject", "DefaultMVCProject\DefaultMVCProject.csproj", "{D6C45DCA-6863-4687-90E4-FD702DF9F1DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCORE_Configuration_and_Logging", "ASPNETCORE_Configuration_and_Logging\ASPNETCORE_Configuration_and_Logging.csproj", "{D3CA97C2-B854-48D2-AB24-440DE470798E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNETCORE_Configuration_and_Logging", "ASPNETCORE_Configuration_and_Logging\ASPNETCORE_Configuration_and_Logging.csproj", "{D3CA97C2-B854-48D2-AB24-440DE470798E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCORE_Default_Project", "ASPNETCORE_Default_Project\ASPNETCORE_Default_Project.csproj", "{69741950-494E-4A77-B0B4-F4BE5282D4A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNETCORE_Default_Project", "ASPNETCORE_Default_Project\ASPNETCORE_Default_Project.csproj", "{69741950-494E-4A77-B0B4-F4BE5282D4A4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul003_Default_RazorPageProject", "Modul003_Default_RazorPageProject", "{21FFE0B6-005D-4A16-8F95-4201D2ED13A6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul004_Configuration_Logging", "Modul004_Configuration_Logging", "{9950EC92-95FE-44CE-9694-FF507187AF51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPages_Samples", "RazorPages_Samples\RazorPages_Samples.csproj", "{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPages_Samples", "RazorPages_Samples\RazorPages_Samples.csproj", "{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD62071C-C4CA-4B2D-BA83-09D05FF8E69F}"
 	ProjectSection(SolutionItems) = preProject
 		..\Agenda.md = ..\Agenda.md
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul005_RazorPageSamples", "Modul005_RazorPageSamples", "{8D042EA9-C3CE-4521-A82F-F99AC2537873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPage_with_EFCore_Intro", "RazorPage_with_EFCore_Intro\RazorPage_with_EFCore_Intro.csproj", "{B64B02FF-7946-429B-A877-862CC4A4340E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPage_with_EfCore_SecondProject", "RazorPage_with_EfCore_SecondProject\RazorPage_with_EfCore_SecondProject.csproj", "{074507AE-CF8A-45D5-A264-05F46ED5B571}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul006_EfCore", "Modul006_EfCore", "{224EBCDD-CFDE-457C-943C-29EC427AACF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -88,6 +96,14 @@ Global
 		{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D58E3B9-F3B0-4D69-84FB-43C131CC568A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64B02FF-7946-429B-A877-862CC4A4340E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64B02FF-7946-429B-A877-862CC4A4340E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64B02FF-7946-429B-A877-862CC4A4340E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64B02FF-7946-429B-A877-862CC4A4340E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074507AE-CF8A-45D5-A264-05F46ED5B571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074507AE-CF8A-45D5-A264-05F46ED5B571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074507AE-CF8A-45D5-A264-05F46ED5B571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074507AE-CF8A-45D5-A264-05F46ED5B571}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,6 +119,9 @@ Global
 		{D6C45DCA-6863-4687-90E4-FD702DF9F1DC} = {354AA8AB-03D4-4471-A8E4-1C7D66116469}
 		{D3CA97C2-B854-48D2-AB24-440DE470798E} = {9950EC92-95FE-44CE-9694-FF507187AF51}
 		{69741950-494E-4A77-B0B4-F4BE5282D4A4} = {21FFE0B6-005D-4A16-8F95-4201D2ED13A6}
+		{8D58E3B9-F3B0-4D69-84FB-43C131CC568A} = {8D042EA9-C3CE-4521-A82F-F99AC2537873}
+		{B64B02FF-7946-429B-A877-862CC4A4340E} = {224EBCDD-CFDE-457C-943C-29EC427AACF2}
+		{074507AE-CF8A-45D5-A264-05F46ED5B571} = {224EBCDD-CFDE-457C-943C-29EC427AACF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {42F9FD03-E3AC-4ABF-AB01-46345651A162}

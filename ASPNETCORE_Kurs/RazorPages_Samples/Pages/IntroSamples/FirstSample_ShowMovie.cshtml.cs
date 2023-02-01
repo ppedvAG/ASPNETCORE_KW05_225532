@@ -6,6 +6,7 @@ namespace RazorPages_Samples.Pages.IntroSamples
 {
     public class FirstSample_ShowMovieModel : PageModel
     {
+        //Mit Razor kann man auf die Public - Properties von der FirstSample_ShowMovieModel zugreifen.
         public Movie MovieObj { get; set; }
 
         private ILogger<FirstSample_ShowMovieModel> _logger;

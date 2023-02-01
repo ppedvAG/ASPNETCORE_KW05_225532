@@ -1,0 +1,67 @@
+﻿@page
+@using RazorPage_with_EFCore_Intro.Models;
+@model RazorPage_with_EFCore_Intro.Pages.Movies.IndexModel
+@{
+}
+
+
+<table class="table">
+
+    <thead>
+        <!-- Tabellen Columns Definition-->
+        <tr>
+            <th>
+                <!-- Erste Column Titel -->
+                @Html.DisplayNameFor(model=> model.Movies.First().Title)
+            </th>
+
+            <th>
+                <!-- Zweite Column Description -->
+                @Html.DisplayNameFor(model=> model.Movies[0].Description)
+            </th>
+
+            <th>
+                <!-- Dritte Column Price -->
+                @Html.DisplayNameFor(model=> model.Movies[0].Price)
+            </th>
+
+            <th>
+                <!-- Dritte Column Genre -->
+                @Html.DisplayNameFor(model=> model.Movies[0].Genre)
+            </th>
+
+            <th>
+                <!-- für Buttons -> Details -->
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Movie currentMovie in Model.Movies)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItel => currentMovie.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItel => currentMovie.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItel => currentMovie.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItel => currentMovie.Genre)
+                </td>
+                <td>
+                    <!-- Die Id wollen wir beim Aufruf von ThirdSample als Id in der URL übertragen. Das nennt man einen QueryString -->
+                    <a asp-page="./Details" asp-route-id="@currentMovie.Id">Details</a>
+                    <!--https://localhost:7164/IntroSamples/ThirdSample_ShowMovieDetailsWithId?id=2-->
+                </td>
+            </tr>
+        }
+    </tbody>
+
+
+
+
+</table>

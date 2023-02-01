@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\bin\Debug\net7.0\InterfaceSegerationPrincipe.exe
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\bin\Debug\net7.0\InterfaceSegerationPrincipe.deps.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\bin\Debug\net7.0\InterfaceSegerationPrincipe.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\bin\Debug\net7.0\InterfaceSegerationPrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\bin\Debug\net7.0\InterfaceSegerationPrincipe.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\InterfaceSegerationPrincipe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\InterfaceSegerationPrincipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\InterfaceSegerationPrincipe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\InterfaceSegerationPrincipe.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\InterfaceSegerationPrincipe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\InterfaceSegerationPrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\refint\InterfaceSegerationPrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\InterfaceSegerationPrincipe.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\InterfaceSegerationPrincipe.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\InterfaceSegerationPrincipe\obj\Debug\net7.0\ref\InterfaceSegerationPrincipe.dll

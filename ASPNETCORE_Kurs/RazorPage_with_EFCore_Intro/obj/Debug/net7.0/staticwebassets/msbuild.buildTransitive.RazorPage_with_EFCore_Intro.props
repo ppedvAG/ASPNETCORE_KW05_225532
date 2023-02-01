@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RazorPage_with_EFCore_Intro.props" />
+</Project>

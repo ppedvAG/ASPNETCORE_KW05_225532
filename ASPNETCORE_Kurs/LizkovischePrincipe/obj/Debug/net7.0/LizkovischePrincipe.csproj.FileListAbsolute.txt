@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\bin\Debug\net7.0\LizkovischePrincipe.exe
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\bin\Debug\net7.0\LizkovischePrincipe.deps.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\bin\Debug\net7.0\LizkovischePrincipe.runtimeconfig.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\bin\Debug\net7.0\LizkovischePrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\bin\Debug\net7.0\LizkovischePrincipe.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\LizkovischePrincipe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\LizkovischePrincipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\LizkovischePrincipe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\LizkovischePrincipe.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\LizkovischePrincipe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\LizkovischePrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\refint\LizkovischePrincipe.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\LizkovischePrincipe.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\LizkovischePrincipe.genruntimeconfig.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\LizkovischePrincipe\obj\Debug\net7.0\ref\LizkovischePrincipe.dll

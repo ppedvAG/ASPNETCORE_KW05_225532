@@ -20,9 +20,16 @@ namespace RazorPages_Samples.Pages.IntroSamples
             Movies.Add(new Movie() { Id = 4, Title = "Fast & Furios 123", Description = "Never Ending Story", Genre = GenreType.Horror, Price = 11 });
         }
 
-        public void OnGet(int? id)
+        public async Task<ActionResult> OnGet(int? id)
         {
-            //CurrentMovie = 
+            if (id.HasValue) 
+            {
+                return BadRequest();
+            }
+
+            Movie CurrentMovie = Movies.FirstOrDefault(x => x.Id == id);
+
+            return Page();
         }
     }
 }

@@ -1,0 +1,28 @@
+﻿@page
+@model RazorPages_Samples.Pages.RazorPageSamples.AspPageHandlerSample2Model
+@{
+}
+
+
+<!-- Allgemeine Post - Methode wird aufgerufen-->
+<form method="post">
+    <input name="eins" />
+    <input name="zwei" />
+    <hr />
+
+    <!-- wenn wir das Formular an den WebServer zurück senden, benötigen wir ein Button oder Anderes Ereignis, dass ein "Submit" auslöst -->
+    <button type="submit" asp-page-handler="add">Addieren</button>
+    <button type="submit" asp-page-handler="sub">Subtrahieren</button>
+    @Model.Ergebnis
+</form>
+
+<form method="post">
+    <input name="eins" />
+    <input name="zwei" />
+    <hr />
+
+    <!-- wenn wir das Formular an den WebServer zurück senden, benötigen wir ein Button oder Anderes Ereignis, dass ein "Submit" auslöst -->
+    <button type="submit" asp-page-handler="mult">Multiplizieren</button>
+    <button type="submit" asp-page-handler="div">Dividieren</button>
+    @Model.Ergebnis
+</form>

@@ -40,6 +40,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Samples/Pages/RazorPageSamples/AspPageHandlerSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JQYWdlU2FtcGxlc1xBc3BQYWdlSGFuZGxlclNhbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Samples/Pages/RazorPageSamples/AspPageHandlerSample2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JQYWdlU2FtcGxlc1xBc3BQYWdlSGFuZGxlclNhbXBsZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Samples/Pages/RazorPageSamples/FromRouteSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JQYWdlU2FtcGxlc1xGcm9tUm91dGVTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Samples/Pages/RazorPageSamples/PageHandler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JQYWdlU2FtcGxlc1xQYWdlSGFuZGxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Samples/Pages/RazorPageSamples/QueryStringSample1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JQYWdlU2FtcGxlc1xRdWVyeVN0cmluZ1NhbXBsZTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Samples/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
