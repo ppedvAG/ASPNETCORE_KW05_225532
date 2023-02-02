@@ -1,0 +1,46 @@
+﻿@page
+@using Microsoft.AspNetCore.Localization
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+
+    var requestCultureFeature = HttpContext.Features.Get<IRequestCultureFeature>();
+    var requestCulture = requestCultureFeature.RequestCulture;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <table class="table culture-table">
+        <tr>
+            <td style="width:50%;">Culture</td>
+            <td>@requestCulture.Culture.DisplayName {@requestCulture.Culture.Name}</td>
+        </tr>
+        <tr>
+            <td>UI Culture</td>
+            <td>@requestCulture.UICulture.Name</td>
+        </tr>
+        <tr>
+            <td>UICulture Parent</td>
+            <td>@requestCulture.UICulture.Parent</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>@DateTime.Now.ToLongDateString()</td>
+        </tr>
+        <tr>
+            <td>Currency</td>
+            <td>
+                @(12345.00.ToString("c"))
+            </td>
+        </tr>
+        <tr>
+            <td>Number</td>
+            <td>
+                @(123.45m.ToString("F2"))
+            </td>
+        </tr>
+    </table>
+</div>

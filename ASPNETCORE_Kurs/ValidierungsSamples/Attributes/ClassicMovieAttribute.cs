@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using ValidierungsSamples.Data;
 using ValidierungsSamples.Models;
 
 namespace ValidierungsSamples.Attributes
@@ -17,6 +18,12 @@ namespace ValidierungsSamples.Attributes
 
         protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
         {
+            using (IServiceScope scope = validationContext.CreateScope())
+            {
+                MovieDbContext ctx = scope.ServiceProvider.GetRequiredService<MovieDbContext>();
+                //....
+            }
+
             Movie movie = (Movie)validationContext.ObjectInstance;
 
             int releaseYear = (int)value;
