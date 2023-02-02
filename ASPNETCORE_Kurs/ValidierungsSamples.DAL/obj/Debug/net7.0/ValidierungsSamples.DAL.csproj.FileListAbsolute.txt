@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\bin\Debug\net7.0\ValidierungsSamples.DAL.deps.json
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\bin\Debug\net7.0\ValidierungsSamples.DAL.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\bin\Debug\net7.0\ValidierungsSamples.DAL.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\ValidierungsSamples.DAL.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\ValidierungsSamples.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\ValidierungsSamples.DAL.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\ValidierungsSamples.DAL.AssemblyInfo.cs
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\ValidierungsSamples.DAL.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\ValidierungsSamples.DAL.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\refint\ValidierungsSamples.DAL.dll
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\ValidierungsSamples.DAL.pdb
+C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\ValidierungsSamples.DAL\obj\Debug\net7.0\ref\ValidierungsSamples.DAL.dll

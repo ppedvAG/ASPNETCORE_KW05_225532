@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DependencyInversion.cs": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54937;http://localhost:54938"
+    }
+  }
+}
