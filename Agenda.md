@@ -27,30 +27,30 @@ Modul 2: ASP.NET Core Grundlagen
 
 Modul 3: Razor Pages und Template Synatax
 - [x] Projektstruktur Komplettübersicht
-- [ ] Razor Pages (Part1)
-    - [ ] Razor Page
-    - [ ] Razor Syntax
-    - [ ] QueryString / Route - Paramter an Get-Methode
-    - [ ] Page-Handler 
-    - [ ] Get / Post - Methoden und Konzept
-    - [ ] Tabellen / Formulare
-    - [ ] Asp-Handler
+- [x] Razor Pages (Part1)
+    - [x] Razor Page
+    - [x] Razor Syntax
+    - [x] QueryString / Route - Paramter an Get-Methode
+    - [x] Page-Handler 
+    - [x] Get / Post - Methoden und Konzept
+    - [x] Tabellen / Formulare
+    - [x] Asp-Handler
     
 Modul 4: 
-- [ ] Layouts
-- [ ] Bootstrap
+- [x] Layouts
+- [x] Bootstrap
 
 Modul 5: EF Core
-- [ ] Entity Framework Core
-- [ ] CodeFirst
-- [ ] DataAnnotations
-- [ ] Scaffolding
-- [ ] InMemory-Database / SqlProvider
+- [x] Entity Framework Core
+- [x] CodeFirst
+- [x] DataAnnotations
+- [x] Scaffolding
+- [x] InMemory-Database / SqlProvider
 
 Modul 5b: Modelvalidierung
-- [ ]  Clientseitige Validierung
-- [ ]  BugFix für Clientseitige Validierung
-- [ ]  Serverseitige Validierung
+- [x]  Clientseitige Validierung
+- [x]  BugFix für Clientseitige Validierung
+- [x]  Serverseitige Validierung
 
 Modul 6: 
 - [ ] Partial Views
@@ -60,15 +60,15 @@ Modul 6:
     - [ ] Partial View als Optionale View-Erweiterugen 
 
 
-Modul 6b: 
-- [ ] ViewComponents
-- [ ] Lokalisierung 
+Modul 10:
+- [ ] Foto-Gallery (Formulare und Dateien)
+- [ ] Middleware-Pipeline
+    - [ ] Thumbnail - Middleware für formatierte Fotos
 
 
 Modul 7: StateManagement
-- [ ] Cache Tag,
 - [ ] ViewData
-- [ ] ViewBag? 
+- [ ] ViewBag
 - [ ] TempData
 - [ ] Session
 
@@ -80,10 +80,12 @@ Modul 8: Routing
 Modul 9: 
 - [ ] Identity UI 
 
-Modul 10:
-- [ ] Foto-Gallery (Formulare und Dateien)
-- [ ] Middleware-Pipeline
-    - [ ] Thumbnail - Middleware für formatierte Fotos
+
+
+
+Modul 6b: 
+- [ ] ViewComponents
+- [ ] Lokalisierung 
 
 Modul 11: Erweiterungen in HTML:
 - [ ] TagHelpers
