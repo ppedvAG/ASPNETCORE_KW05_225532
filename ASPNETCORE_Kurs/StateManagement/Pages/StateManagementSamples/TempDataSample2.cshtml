@@ -1,0 +1,9 @@
+﻿@page
+@model StateManagement.Pages.StateManagementSamples.TempDataSample2Model
+@{
+    string filmtitel = TempData["Film"].ToString();
+    TempData.Keep();
+}
+
+@filmtitel
+

@@ -135,6 +135,9 @@
   <data name="First Name Required" xml:space="preserve">
     <value>where is the firstname</value>
   </data>
+  <data name="Home" xml:space="preserve">
+    <value>Startpage</value>
+  </data>
   <data name="Last Name" xml:space="preserve">
     <value>lastname</value>
   </data>

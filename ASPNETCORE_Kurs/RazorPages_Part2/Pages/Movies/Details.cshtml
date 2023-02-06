@@ -1,0 +1,16 @@
+﻿@page
+@model RazorPages_Part2.Pages.Movies.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <partial name="_DisplayMoviePartial" model="Model.Movie" />
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Movie?.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

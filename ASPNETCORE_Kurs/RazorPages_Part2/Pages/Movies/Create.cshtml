@@ -1,0 +1,15 @@
+﻿@page
+@model RazorPages_Part2.Pages.Movies.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+
+<partial name="_MovieEditablePartial" model="Model.Movie" />
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -8,6 +8,10 @@ using System.Reflection;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+
+
+
 builder.Services.AddRazorPages().AddViewLocalization().AddDataAnnotationsLocalization(options =>
 {
     options.DataAnnotationLocalizerProvider = (type, factory) =>
@@ -62,6 +66,8 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapRazorPages();
+//Customize Middlewares
+
+app.MapRazorPages(); //Endpoint -> Navigation (Terminierung, Letzter Haltepunkt)
 
 app.Run();

@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPages_Part2
+build_property.RootNamespace = RazorPages_Part2
+build_property.ProjectDir = C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\RazorPages_Part2\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Aktueller Kurs\ASPNETCORE_KW05_225532\ASPNETCORE_Kurs\RazorPages_Part2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Components/WeatherWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xXZWF0aGVyV2lkZ2V0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/PartialViewSamples/Sample1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlhbFZpZXdTYW1wbGVzXFNhbXBsZTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/PictureSamples/GallerySample1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGljdHVyZVNhbXBsZXNcR2FsbGVyeVNhbXBsZTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/PictureSamples/GallerySample2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGljdHVyZVNhbXBsZXNcR2FsbGVyeVNhbXBsZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/PictureSamples/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGljdHVyZVNhbXBsZXNcVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Shared/_AktuellesDatumPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Ba3R1ZWxsZXNEYXR1bVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Shared/_DisplayMoviePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9EaXNwbGF5TW92aWVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Shared/_MovieEditablePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Nb3ZpZUVkaXRhYmxlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/TagHelperSamples/Sample1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFnSGVscGVyU2FtcGxlc1xTYW1wbGUxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/TagHelperSamples/Sample2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFnSGVscGVyU2FtcGxlc1xTYW1wbGUyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/ViewComponents/Sample1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld0NvbXBvbmVudHNcU2FtcGxlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Aktueller Kurs/ASPNETCORE_KW05_225532/ASPNETCORE_Kurs/RazorPages_Part2/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-120wnrllik

@@ -1,0 +1,14 @@
+﻿@page
+@model RazorPages_Part2.Pages.PictureSamples.GallerySample2Model
+@{
+}
+
+
+@foreach (var item in Model.Bilder)
+{
+    <div class="col-12 col-md-4">
+        <a href="~/uploaded_pictures/@System.IO.Path.GetFileName(item)">
+            <img class="img-fluid" src="/imagegen?img=/@System.IO.Path.GetFileName(item)" />
+        </a>
+    </div>
+}

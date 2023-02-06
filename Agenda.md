@@ -53,43 +53,40 @@ Modul 5b: Modelvalidierung
 - [x]  Serverseitige Validierung
 
 Modul 6: 
-- [ ] Partial Views
-    - [ ] Was ist eine Partial View?
-    - [ ] Implementieren einer einfachen Partial View
-    - [ ] Razor-Syntax Redundanzen mit Partial View beheben 
-    - [ ] Partial View als Optionale View-Erweiterugen 
+- [x] Partial Views
+    - [x] Was ist eine Partial View?
+    - [x] Implementieren einer einfachen Partial View
+    - [x] Razor-Syntax Redundanzen mit Partial View beheben 
+    - [x] Partial View als Optionale View-Erweiterugen 
 
 
 Modul 10:
-- [ ] Foto-Gallery (Formulare und Dateien)
+- [x] Foto-Gallery (Formulare und Dateien)
 - [ ] Middleware-Pipeline
     - [ ] Thumbnail - Middleware für formatierte Fotos
 
 
 Modul 7: StateManagement
-- [ ] ViewData
-- [ ] ViewBag
-- [ ] TempData
-- [ ] Session
+- [x] ViewData
+- [x] ViewBag
+- [x] TempData
+- [x] Session
 
 Modul 8: Routing
-- [ ] RouteAttributes
-- [ ] RouteTemplates
-- [ ] FriendlyRoutes
+- [x] RouteAttributes
+- [x] RouteTemplates
+- [x] FriendlyRoutes
   
 Modul 9: 
 - [ ] Identity UI 
-
-
-
 
 Modul 6b: 
 - [ ] ViewComponents
 - [ ] Lokalisierung 
 
 Modul 11: Erweiterungen in HTML:
-- [ ] TagHelpers
-- [ ] HTMLHelpers
+- [x] TagHelpers
+- [x] HTMLHelpers
 - [ ] SignalR -> Hannes
 
 

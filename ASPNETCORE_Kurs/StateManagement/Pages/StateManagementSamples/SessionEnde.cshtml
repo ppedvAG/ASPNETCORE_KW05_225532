@@ -1,0 +1,18 @@
+﻿@page
+@using StateManagement.Models;
+@using System.Text.Json;
+@model StateManagement.Pages.StateManagementSamples.SessionEndeModel
+@{
+    string emailAusgaben = HttpContext.Session.GetString("email");
+
+    string json1 = HttpContext.Session.GetString("OscarFilm");
+    Movie movie1 = JsonSerializer.Deserialize<Movie>(json1);
+}
+
+@HttpContext.Session.GetString("email")
+
+
+@movie1.Title
+<br/>   
+@movie1.Description
+
